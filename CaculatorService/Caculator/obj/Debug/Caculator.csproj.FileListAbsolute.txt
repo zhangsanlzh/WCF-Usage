@@ -1,0 +1,8 @@
+C:\Users\lzh\Desktop\CaculatorService\Caculator\bin\Debug\Caculator.exe
+C:\Users\lzh\Desktop\CaculatorService\Caculator\bin\Debug\Caculator.pdb
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Debug\Caculator.Form1.resources
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Debug\Caculator.csproj.GenerateResource.Cache
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Debug\Caculator.exe
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Debug\Caculator.pdb
+C:\Users\lzh\Desktop\CaculatorService\Caculator\bin\Debug\Caculator.exe.config

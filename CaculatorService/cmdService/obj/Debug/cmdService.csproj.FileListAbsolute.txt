@@ -1,0 +1,7 @@
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Debug\cmdService.exe
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Debug\cmdService.pdb
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Debug\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Debug\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService\cmdService\obj\Debug\cmdService.csprojResolveAssemblyReference.cache
+C:\Users\lzh\Desktop\CaculatorService\cmdService\obj\Debug\cmdService.exe
+C:\Users\lzh\Desktop\CaculatorService\cmdService\obj\Debug\cmdService.pdb

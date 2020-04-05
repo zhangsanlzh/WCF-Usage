@@ -1,0 +1,17 @@
+C:\Users\lzh\Desktop\CaculatorService\Caculator\bin\Release\Caculator.exe.config
+C:\Users\lzh\Desktop\CaculatorService\Caculator\bin\Release\Caculator.exe
+C:\Users\lzh\Desktop\CaculatorService\Caculator\bin\Release\Caculator.pdb
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Release\Caculator.Form1.resources
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Release\Caculator.Properties.Resources.resources
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Release\Caculator.csproj.GenerateResource.Cache
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Release\Caculator.exe
+C:\Users\lzh\Desktop\CaculatorService\Caculator\obj\Release\Caculator.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\bin\Release\Caculator.exe.config
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\bin\Release\Caculator.exe
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\bin\Release\Caculator.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\obj\Release\Caculator.Form1.resources
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\obj\Release\Caculator.Properties.Resources.resources
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\obj\Release\Caculator.csproj.GenerateResource.Cache
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\obj\Release\Caculator.exe
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\obj\Release\Caculator.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\Caculator\obj\Release\Caculator.csprojResolveAssemblyReference.cache

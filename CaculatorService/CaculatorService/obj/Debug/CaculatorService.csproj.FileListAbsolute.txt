@@ -1,0 +1,5 @@
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\bin\Debug\CaculatorService.dll.config
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\bin\Debug\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\bin\Debug\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\obj\Debug\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\obj\Debug\CaculatorService.pdb

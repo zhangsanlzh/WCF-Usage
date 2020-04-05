@@ -1,0 +1,8 @@
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\bin\Debug\cmdService.exe.config
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\bin\Debug\cmdService.exe
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\bin\Debug\cmdService.pdb
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\bin\Debug\ERPService.dll
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\bin\Debug\ERPService.pdb
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\obj\Debug\cmdService.csprojResolveAssemblyReference.cache
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\obj\Debug\cmdService.exe
+C:\Users\lzh\Desktop\WindowsFormsApplication1\cmdService\obj\Debug\cmdService.pdb

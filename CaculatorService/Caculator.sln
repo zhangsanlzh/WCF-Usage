@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaculatorService", "CaculatorService\CaculatorService.csproj", "{E93F56B4-D12C-4186-AD11-B4F6752B2650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmdService", "cmdService\cmdService.csproj", "{D3353D36-5891-4D23-9395-18531863CC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator", "Caculator\Caculator.csproj", "{6D404B90-96CB-458A-8B0F-6067A26993F4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E93F56B4-D12C-4186-AD11-B4F6752B2650} = {E93F56B4-D12C-4186-AD11-B4F6752B2650}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93F56B4-D12C-4186-AD11-B4F6752B2650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93F56B4-D12C-4186-AD11-B4F6752B2650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93F56B4-D12C-4186-AD11-B4F6752B2650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93F56B4-D12C-4186-AD11-B4F6752B2650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3353D36-5891-4D23-9395-18531863CC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3353D36-5891-4D23-9395-18531863CC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3353D36-5891-4D23-9395-18531863CC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3353D36-5891-4D23-9395-18531863CC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D404B90-96CB-458A-8B0F-6067A26993F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D404B90-96CB-458A-8B0F-6067A26993F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D404B90-96CB-458A-8B0F-6067A26993F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D404B90-96CB-458A-8B0F-6067A26993F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

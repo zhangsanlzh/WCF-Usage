@@ -1,0 +1,10 @@
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\bin\Release\CaculatorService.dll.config
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\bin\Release\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\bin\Release\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\obj\Release\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService\CaculatorService\obj\Release\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\CaculatorService\bin\Release\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\CaculatorService\bin\Release\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\CaculatorService\obj\Release\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\CaculatorService\obj\Release\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\CaculatorService\obj\Release\CaculatorService.csprojResolveAssemblyReference.cache

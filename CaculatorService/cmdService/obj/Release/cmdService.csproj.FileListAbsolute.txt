@@ -1,0 +1,16 @@
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Release\cmdService.exe
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Release\cmdService.pdb
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Release\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Release\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService\cmdService\obj\Release\cmdService.csprojResolveAssemblyReference.cache
+C:\Users\lzh\Desktop\CaculatorService\cmdService\obj\Release\cmdService.exe
+C:\Users\lzh\Desktop\CaculatorService\cmdService\obj\Release\cmdService.pdb
+C:\Users\lzh\Desktop\CaculatorService\cmdService\bin\Release\cmdService.exe.config
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\bin\Release\cmdService.exe.config
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\obj\Release\cmdService.exe
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\obj\Release\cmdService.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\bin\Release\cmdService.exe
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\bin\Release\cmdService.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\bin\Release\CaculatorService.dll
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\bin\Release\CaculatorService.pdb
+C:\Users\lzh\Desktop\CaculatorService - 副本 (2)\cmdService\obj\Release\cmdService.csprojResolveAssemblyReference.cache

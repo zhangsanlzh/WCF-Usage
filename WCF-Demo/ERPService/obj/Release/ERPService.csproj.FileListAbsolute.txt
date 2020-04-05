@@ -1,0 +1,4 @@
+C:\Users\lzh\Desktop\WindowsFormsApplication1\ERPService\bin\Release\ERPService.dll
+C:\Users\lzh\Desktop\WindowsFormsApplication1\ERPService\bin\Release\ERPService.pdb
+C:\Users\lzh\Desktop\WindowsFormsApplication1\ERPService\obj\Release\ERPService.dll
+C:\Users\lzh\Desktop\WindowsFormsApplication1\ERPService\obj\Release\ERPService.pdb
